@@ -1,0 +1,1 @@
+Cliente {nomeCliente = "Cliente 1", emailCliente = "cliente1@gmail.com", cpfCliente = "1234567", telefoneCliente = "(83)92222-5555", senhaCliente = "123456"}

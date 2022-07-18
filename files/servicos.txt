@@ -1,0 +1,1 @@
+Servico {nomeServico = "Corte cabelo", descricaoServico = "Corte cabelo masc e fem", nomeEmpresa = "Empresa 1"}

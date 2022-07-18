@@ -1,0 +1,1 @@
+Empresa {nomeEmpresa = "Empresa 1", emailEmpresa = "empresa1@gmail.com", telefoneEmpresa = "(83)98888-4444", senhaEmpresa = "123456"}
